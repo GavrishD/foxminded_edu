@@ -4,7 +4,7 @@
         "name": "Common fox",
         "category": "Forest",
         "price": 100.00,
-        "photo": ".img/all-items/Forest/01.jpg"
+        "photo": "img/all-items/Forest/01.jpg"
     },
     {
         "id": 2,
